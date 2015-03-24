@@ -1,0 +1,12 @@
+{
+  "name": "resize-optimise-images",
+  "version": "0.0.1",
+  "description": "Tool to resize and optimize images for airportcod.es",
+  "author": "vjo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.6.0"
+  },
+  "devDependencies": {}
+}
